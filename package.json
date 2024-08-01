@@ -1,0 +1,15 @@
+{
+  "name": "latelyx",
+  "version": "1.0.0",
+  "description": "Native JavaScript, only 800 Byte but simple and easy to use Timeago plugin",
+  "main": "latelyx.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afyi/lately"
+  },
+  "author": "afyi",
+  "license": "ISC"
+}
