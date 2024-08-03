@@ -1,6 +1,6 @@
 {
   "name": "latelyx",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Native JavaScript, only 800 Byte but simple and easy to use Timeago plugin",
   "main": "latelyx.min.js",
   "scripts": {
